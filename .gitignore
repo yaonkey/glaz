@@ -13,6 +13,7 @@ coverage.out
 
 # Local runtime/config files
 /glaz.json
+/dist
 
 # OS/editor noise
 .DS_Store
