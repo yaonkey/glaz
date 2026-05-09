@@ -1,0 +1,19 @@
+# Binaries
+/glaz
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test artifacts
+*.test
+*.out
+coverage.out
+
+# Local runtime/config files
+/glaz.json
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
